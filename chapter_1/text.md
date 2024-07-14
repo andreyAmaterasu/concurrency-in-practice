@@ -17,7 +17,7 @@ example illustrates problem which names "race condition".
 > attempts to perform two or more operations at the same time.
 
 The next picture shows safe increment operation where access to variable which have increment
-synchronized by specific keyword "synchronized".
+synchronized by specific keyword "synchronized". \
 ![screenshot](./img/example_1_safe_increment_operation.png)
 
 <!-- The next chapter is 1.3.2 page number 43 -->
